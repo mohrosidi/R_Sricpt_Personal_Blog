@@ -1,0 +1,50 @@
+tipe_hutan,keterangan_tipe_hutan,indikator,luas
+" Hutan Primer","Hutan Lahan Kering Primer","Luas Penutupan Lahan",4.07e+07
+"Hutan Primer","Hutan Rawa Primer","Luas Penutupan Lahan",5482677
+"Hutan Primer","Hutan Mangrove Primer","Luas Penutupan Lahan",1512630
+"Hutan Sekunder","Hutan Lahan Kering Sekunder","Luas Penutupan Lahan",3.73e+07
+"Hutan Sekunder","Hutan Rawa Sekunder","Luas Penutupan Lahan",6889017
+"Hutan Sekunder","Hutan Mangrove Sekunder","Luas Penutupan Lahan",1394137
+"Hutan Tanaman","Hutan Tanaman","Luas Penutupan Lahan",4855947
+" Hutan Primer","Hutan Lahan Kering Primer","Kawasan Terdeforestasi - Kawasan Suaka Alam/Kawasan Pelestarian Alam",4170.257
+"Hutan Primer","Hutan Rawa Primer","Kawasan Terdeforestasi - Kawasan Suaka Alam/Kawasan Pelestarian Alam",0
+"Hutan Primer","Hutan Mangrove Primer","Kawasan Terdeforestasi - Kawasan Suaka Alam/Kawasan Pelestarian Alam",103.6302
+"Hutan Sekunder","Hutan Lahan Kering Sekunder","Kawasan Terdeforestasi - Kawasan Suaka Alam/Kawasan Pelestarian Alam",28179.15
+"Hutan Sekunder","Hutan Rawa Sekunder","Kawasan Terdeforestasi - Kawasan Suaka Alam/Kawasan Pelestarian Alam",4605.553
+"Hutan Sekunder","Hutan Mangrove Sekunder","Kawasan Terdeforestasi - Kawasan Suaka Alam/Kawasan Pelestarian Alam",418.4562
+"Hutan Tanaman","Hutan Tanaman","Kawasan Terdeforestasi - Kawasan Suaka Alam/Kawasan Pelestarian Alam",-1080.981
+" Hutan Primer","Hutan Lahan Kering Primer","Kawasan Terdeforestasi - Hutan Lindung",6723.333
+"Hutan Primer","Hutan Rawa Primer","Kawasan Terdeforestasi - Hutan Lindung",0
+"Hutan Primer","Hutan Mangrove Primer","Kawasan Terdeforestasi - Hutan Lindung",86.11433
+"Hutan Sekunder","Hutan Lahan Kering Sekunder","Kawasan Terdeforestasi - Hutan Lindung",30050.96
+"Hutan Sekunder","Hutan Rawa Sekunder","Kawasan Terdeforestasi - Hutan Lindung",4306.557
+"Hutan Sekunder","Hutan Mangrove Sekunder","Kawasan Terdeforestasi - Hutan Lindung",1872.944
+"Hutan Tanaman","Hutan Tanaman","Kawasan Terdeforestasi - Hutan Lindung",1957.7
+" Hutan Primer","Hutan Lahan Kering Primer","Kawasan Terdeforestasi - Hutan Produksi Terbatas",2016.351
+"Hutan Primer","Hutan Rawa Primer","Kawasan Terdeforestasi - Hutan Produksi Terbatas",2345.423
+"Hutan Primer","Hutan Mangrove Primer","Kawasan Terdeforestasi - Hutan Produksi Terbatas",42.07872
+"Hutan Sekunder","Hutan Lahan Kering Sekunder","Kawasan Terdeforestasi - Hutan Produksi Terbatas",69251.86
+"Hutan Sekunder","Hutan Rawa Sekunder","Kawasan Terdeforestasi - Hutan Produksi Terbatas",19138.61
+"Hutan Sekunder","Hutan Mangrove Sekunder","Kawasan Terdeforestasi - Hutan Produksi Terbatas",852.1376
+"Hutan Tanaman","Hutan Tanaman","Kawasan Terdeforestasi - Hutan Produksi Terbatas",-27586.08
+" Hutan Primer","Hutan Lahan Kering Primer","Kawasan Terdeforestasi - Hutan Produksi Tetap",396.7428
+"Hutan Primer","Hutan Rawa Primer","Kawasan Terdeforestasi - Hutan Produksi Tetap",1242.218
+"Hutan Primer","Hutan Mangrove Primer","Kawasan Terdeforestasi - Hutan Produksi Tetap",133.0998
+"Hutan Sekunder","Hutan Lahan Kering Sekunder","Kawasan Terdeforestasi - Hutan Produksi Tetap",86032.49
+"Hutan Sekunder","Hutan Rawa Sekunder","Kawasan Terdeforestasi - Hutan Produksi Tetap",63651.46
+"Hutan Sekunder","Hutan Mangrove Sekunder","Kawasan Terdeforestasi - Hutan Produksi Tetap",3688.416
+"Hutan Tanaman","Hutan Tanaman","Kawasan Terdeforestasi - Hutan Produksi Tetap",258.1427
+" Hutan Primer","Hutan Lahan Kering Primer","Kawasan Terdeforestasi - Hutan Produksi yang dapat dikonversi",1422.842
+"Hutan Primer","Hutan Rawa Primer","Kawasan Terdeforestasi - Hutan Produksi yang dapat dikonversi",65.92474
+"Hutan Primer","Hutan Mangrove Primer","Kawasan Terdeforestasi - Hutan Produksi yang dapat dikonversi",286.4859
+"Hutan Sekunder","Hutan Lahan Kering Sekunder","Kawasan Terdeforestasi - Hutan Produksi yang dapat dikonversi",23551.78
+"Hutan Sekunder","Hutan Rawa Sekunder","Kawasan Terdeforestasi - Hutan Produksi yang dapat dikonversi",20654.07
+"Hutan Sekunder","Hutan Mangrove Sekunder","Kawasan Terdeforestasi - Hutan Produksi yang dapat dikonversi",2632.247
+"Hutan Tanaman","Hutan Tanaman","Kawasan Terdeforestasi - Hutan Produksi yang dapat dikonversi",1062.249
+" Hutan Primer","Hutan Lahan Kering Primer","Kawasan Terdeforestasi - Areal Penggunaan Lain",2058.918
+"Hutan Primer","Hutan Rawa Primer","Kawasan Terdeforestasi - Areal Penggunaan Lain",2616.25
+"Hutan Primer","Hutan Mangrove Primer","Kawasan Terdeforestasi - Areal Penggunaan Lain",764.5812
+"Hutan Sekunder","Hutan Lahan Kering Sekunder","Kawasan Terdeforestasi - Areal Penggunaan Lain",165604.3
+"Hutan Sekunder","Hutan Rawa Sekunder","Kawasan Terdeforestasi - Areal Penggunaan Lain",75706.38
+"Hutan Sekunder","Hutan Mangrove Sekunder","Kawasan Terdeforestasi - Areal Penggunaan Lain",4145.461
+"Hutan Tanaman","Hutan Tanaman","Kawasan Terdeforestasi - Areal Penggunaan Lain",10052.59
